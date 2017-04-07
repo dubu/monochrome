@@ -1,6 +1,6 @@
 ---
-title: java data
-description: java data
+title: 3NF
+description: 3NF
 header: java data
 ---
 
