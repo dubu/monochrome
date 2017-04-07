@@ -1,7 +1,7 @@
 ---
 title: 3NF
 description: 3NF
-header: java data
+header: 3NF
 ---
 
 이제와서 세삼 스럽게... 2 
